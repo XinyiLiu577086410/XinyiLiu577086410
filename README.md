@@ -18,16 +18,5 @@
 <!-- [![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=SSK015&layout=compact&exclude_repo=none&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
 
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=XinyiLiu577086410" width="600" height="300"/>
-</div>
-
-
- <table align="center">
-  <tr>
-    <td>Visitors</td>
-    <td><a align= "center" href="https://github.com/XinyiLiu577086410"><img draggable="false" src="https://profile-counter.glitch.me/XinyiLiu577086410/count.svg" alt="Visitor Count" height="30" width="224" /></a></td>
-  </tr>
-</table>
 
 ![Metrics](/github-metrics.svg)
