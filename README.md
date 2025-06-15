@@ -7,11 +7,10 @@
 <!-- - ⚡ Interests: Swimming, Music(e.g. Vocaloid and Chinese Rocks(CuiJian, Zhang Chu..)), Literature and CS-related knowledge. I'm working on **Computer Systems**. -->
 - 👯 Collaborate in: [**HUST**](https://hust.edu.cn/) · [**Heptagon**](https://github.com/heptagonhust) · *2022-now*. Pacitipated in several HPC-realted competitions(PAC, ASC, etc).
 
-<div align="center">
+<div>
 
-<img src="https://readme-stats.clckblog.space/api?username=XinyiLiu577086410&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Top Languages" width="600" height="300">   
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XinyiLiu577086410&hide=html,tex,jupyter%20notebook&langs_count=16&layout=compact&theme=react&hide_border=true" alt="ReadmeCard" width="860" height="430">
+![](https://readme-stats.clckblog.space/api?username=XinyiLiu577086410&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XinyiLiu577086410&hide=html,tex,jupyter%20notebook&langs_count=16&layout=compact&theme=react&hide_border=true) -->
     
 <!-- [![Readme Card](https://readme-stats.clckblog.space/api?username=SSK015&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) -->
     
