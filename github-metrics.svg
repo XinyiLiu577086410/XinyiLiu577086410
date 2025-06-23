@@ -2303,7 +2303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thu-pacman/LiveGraph</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LiveGraph: a transactional graph storage system with purely sequential adjacency list scans</div>
@@ -2356,7 +2356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SSK015/LiveGraph</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LiveGraph: a transactional graph storage system with purely sequential adjacency list scans</div>
@@ -2409,7 +2409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SSK015/caladan</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Interference-aware CPU scheduling that enables performance isolation and high CPU utilization for datacenter servers</div>
@@ -2462,7 +2462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asterich/conv</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2560,7 +2560,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Jun 2025, 09:06:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jun 2025, 11:21:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
