@@ -2333,7 +2333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>szcompressor/SZ</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Error-bounded Lossy Data Compressor (for floating-point/integer datasets)</div>
@@ -2386,7 +2386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hpdps-group/coccl</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">COCCL: Compression and precision co-aware collective communication library</div>
@@ -2439,7 +2439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hpdps-group/hipSZ</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A portable implementation of SZ lossy compression for AMD GPUs and Hygon DCUs.</div>
@@ -2492,7 +2492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hpdps-group/SC22-HDF5-SZ</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HDF5 with SZ lossy compression</div>
@@ -2545,7 +2545,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>szcompressor/cuSZ</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A GPU accelerated error-bounded lossy compression for scientific data.</div>
@@ -2595,7 +2595,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Jun 2025, 19:10:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jun 2025, 20:23:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
