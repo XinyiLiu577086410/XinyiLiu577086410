@@ -2430,7 +2430,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hpdps-group/hipSZ</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A portable implementation of SZ lossy compression for AMD GPUs and Hygon DCUs.</div>
@@ -2483,7 +2483,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hpdps-group/SC22-HDF5-SZ</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HDF5 with SZ lossy compression</div>
@@ -2536,7 +2536,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>szcompressor/cuSZ</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A GPU accelerated error-bounded lossy compression for scientific data.</div>
@@ -2586,7 +2586,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Jul 2025, 20:26:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jul 2025, 21:26:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
