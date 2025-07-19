@@ -2328,7 +2328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>v2ray/v2ray-core</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A platform for building proxies to bypass network restrictions.</div>
@@ -2381,7 +2381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yanue/V2rayU</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等</div>
@@ -2516,7 +2516,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wjwei-handsome/Slurmer</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A TUI application for monitoring and managing SLURM jobs.</div>
@@ -2566,7 +2566,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Jul 2025, 23:12:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jul 2025, 00:15:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
