@@ -2309,7 +2309,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/transformers</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.</div>
@@ -2362,7 +2362,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA/stdexec</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">`std::execution`, the proposed C++ framework for asynchronous and parallel programming.</div>
@@ -2415,7 +2415,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asterich/thread_pool_executor</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">thread pool and its adaptor to stdexec</div>
@@ -2565,7 +2565,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Sept 2025, 10:38:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Sept 2025, 11:35:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
