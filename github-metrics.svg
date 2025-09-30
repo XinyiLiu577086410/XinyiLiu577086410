@@ -2361,7 +2361,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ArduPilot/MissionPlanner</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mission Planner Ground Control Station for ArduPilot (c# .net)</div>
@@ -2414,7 +2414,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ArduPilot/ardupilot</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ArduPlane, ArduCopter, ArduRover, ArduSub source</div>
@@ -2571,7 +2571,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Sept 2025, 20:25:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Sept 2025, 21:24:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
