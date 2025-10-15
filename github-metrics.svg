@@ -2313,7 +2313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>e3nn/e3nn</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modular framework for neural networks with Euclidean symmetry</div>
@@ -2366,7 +2366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookresearch/fairchem</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FAIR Chemistry's library of machine learning methods for chemistry</div>
@@ -2575,7 +2575,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Oct 2025, 18:14:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Oct 2025, 19:10:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
