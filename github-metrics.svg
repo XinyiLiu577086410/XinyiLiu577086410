@@ -2313,7 +2313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>e3nn/e3nn</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modular framework for neural networks with Euclidean symmetry</div>
@@ -2366,7 +2366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookresearch/fairchem</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FAIR Chemistry's library of machine learning methods for chemistry</div>
@@ -2525,7 +2525,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ArduPilot/MissionPlanner</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mission Planner Ground Control Station for ArduPilot (c# .net)</div>
@@ -2575,7 +2575,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Oct 2025, 20:27:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Oct 2025, 21:27:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
