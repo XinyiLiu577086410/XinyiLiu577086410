@@ -2328,7 +2328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SNU-ARC/flashTP</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Torch-native C++/CUDA library to accelerate tensor-product layers in MLIPs</div>
@@ -2434,7 +2434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AnySparse/Graph101</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2585,7 +2585,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Oct 2025, 22:10:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Oct 2025, 23:11:28 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
