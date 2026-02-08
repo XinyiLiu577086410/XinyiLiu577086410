@@ -2339,7 +2339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PASSIONLab/OpenEquivariance</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenEquivariance: a fast, open-source GPU JIT kernel generator for the Clebsch-Gordon Tensor Product.</div>
@@ -2445,7 +2445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>svpcom/wfb-ng</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WFB-NG - the next generation of long-range packet radio link based on raw WiFi radio</div>
@@ -2602,7 +2602,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Feb 2026, 13:56:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Feb 2026, 14:42:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
