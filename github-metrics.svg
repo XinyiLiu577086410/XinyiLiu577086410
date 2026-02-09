@@ -2303,7 +2303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RomanLut/INAV-X-Plane-HITL</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hardware-in-the-loop plugin for X-Plane for INAV flight controller firmware</div>
@@ -2565,7 +2565,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Feb 2026, 00:51:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Feb 2026, 01:44:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
