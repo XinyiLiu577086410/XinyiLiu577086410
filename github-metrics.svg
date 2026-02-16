@@ -2462,7 +2462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>svpcom/wfb-ng</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WFB-NG - the next generation of long-range packet radio link based on raw WiFi radio</div>
@@ -2565,7 +2565,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Feb 2026, 12:16:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Feb 2026, 14:01:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
