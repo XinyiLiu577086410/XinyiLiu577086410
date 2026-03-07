@@ -2328,7 +2328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BytedTsinghua-SIA/CUDA-Agent</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation</div>
@@ -2375,7 +2375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RomanLut/INAV-X-Plane-HITL</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hardware-in-the-loop plugin for X-Plane for INAV flight controller firmware</div>
@@ -2584,7 +2584,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Mar 2026, 21:33:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Mar 2026, 22:17:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
