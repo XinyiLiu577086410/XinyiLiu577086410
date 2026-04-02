@@ -2378,7 +2378,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ACEsuit/mace</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MACE - Fast and accurate machine learning interatomic potentials with higher order equivariant message passing.</div>
@@ -2581,7 +2581,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Apr 2026, 20:54:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Apr 2026, 22:19:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
