@@ -2303,7 +2303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>colorcard/MU5735-Simulation-Replay</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">这个项目基于 MU5735 公开 ADS-B 记录与 FOIA 公布的 FDR 导出数据，构建了 ADS-B + FDR 融合数据到 Web 端的最后 2 分钟的模拟回放。</div>
@@ -2356,7 +2356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adminlby/NTSB_FOIA_MU5735</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">由NTSB发布的3·21空难（MU5735）调查报告</div>
@@ -2409,7 +2409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>technillogue/ptx-isa-markdown</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PTX ISA 9.1 documentation converted to searchable markdown. Includes Claude Code skill for CUDA development.</div>
@@ -2553,7 +2553,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jun 2026, 04:51:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jun 2026, 06:57:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
